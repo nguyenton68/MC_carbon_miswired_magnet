@@ -22,3 +22,5 @@ Input cut file cutc12.inp: this file is not useful. But I leave it there in case
 run.sh: this file to run the simulation many times to get enough statistic.
 
 rec_sim_xs.C: file to get cross section from simulation using a cut on original theta vs phi & W cut
+
+rec_phase_space.C: file to get real solid angle and the boundary to apply cut at target (theta vs phi).
