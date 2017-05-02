@@ -20,3 +20,5 @@ Number of trial, beam energy, momentum setting(p0),angle, momentum range (+-x = 
 Input cut file cutc12.inp: this file is not useful. But I leave it there in case need it later.
 
 run.sh: this file to run the simulation many times to get enough statistic.
+
+rec_sim_xs.C: file to get cross section from simulation using a cut on original theta vs phi & W cut
